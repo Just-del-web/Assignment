@@ -2,20 +2,20 @@
     font-family: AlmarenaDisplayBold, sans-serif;
 }
 nav ul {
-    list-style: none; /* Remove default bullet points */
+    list-style: none;
     padding: 0;
     margin: 0;
-    display: flex; /* Aligns the list items side by side */
+    display: flex; 
     justify-content: flex-end;
       }
     
     nav ul li {
-    margin: 10px; /* Adds space between the list items */
+    margin: 10px; 
     }
     
     nav ul li a {
-    text-decoration: none; /* Removes the underline from links */
-    color: black; /* You can change this to your preferred color */
+    text-decoration: none; 
+    color: black; 
     margin-left: 4px;
     font-size: small;
     color:#000000;
